@@ -4,7 +4,6 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class app {
-    
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String s1 = in.nextLine();
