@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Q17 {
-    private String[] strings=new String[]{" "," ","abc","def","ghi","jkl","mnl","opq","rst","uvw","xyz"};
+    private String[] strings=new String[]{" "," ","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
     public List<String> letterCombinations(String digits) {
         List<String> list=new ArrayList<>();
         if(digits==null||digits.length()==0){

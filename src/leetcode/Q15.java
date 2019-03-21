@@ -16,7 +16,7 @@ public class Q15 {
         List<List<Integer>> lists = new ArrayList<>();
         Arrays.sort(nums);
         for (int i = 0; i < nums.length - 2; i++) {
-            if (i == 0 || i > 0 && nums[i] != nums[i - 1]) {
+            if (i == 0 || i > 0 && nums[i] != nums[i - 1]) {    //这一步的作用是确保要求的sum值不重复
                 int l = i + 1, h = nums.length - 1, sum = 0 - nums[i];
                 while (l < h) {
                     if (nums[l] + nums[h] == sum) {
