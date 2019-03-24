@@ -31,7 +31,7 @@ public class Q22 {
 
 
     public void dfs(int left, int right, int n, String s, List<String> list) {
-        if (right ==  3) {
+        if (right ==  n) {
             list.add(s);
             return;
     }
@@ -40,16 +40,16 @@ public class Q22 {
 //            System.out.println("------------");
 
             s += "(";   //这种写法，是有错误的，在执行完一种情况，回到上一层dfs时，(  还是加上去了
-            System.out.println(s+" "+(left+1));
             dfs(left + 1, right, n, s , list);
+            s=s.substring(0,s.length()-1);
         }
 
         if (right < left) {
 //            System.out.println(left + "***" + right+ s);
 //            System.out.println("*********");
             s += ")";
-            System.out.println(s+" "+(right+1)+"---");
             dfs(left, right + 1, n, s , list);
+            s=s.substring(0,s.length()-1);
         }
 
 

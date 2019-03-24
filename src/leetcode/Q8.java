@@ -3,6 +3,9 @@ package leetcode;
 import java.util.HashMap;
 
 public class Q8 {
+    public static void main(String[] args) {
+        System.out.println(Character.isDigit('3'));
+    }
     public int myAtoi(String str) {
         int result = 0;
         boolean isNegative = false;

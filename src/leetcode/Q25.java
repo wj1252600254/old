@@ -31,7 +31,7 @@ public class Q25 {
         if (head == null)
             return null;
         ListNode node = head;
-//        while (k-- > 1) {
+//        while (k-- > 1) {    //此处不能用自减，因为后面还会用到k，如果用的，那么后面k相当于等于1了
 //            node = node.next;
 //            if (node == null)
 //                return head;

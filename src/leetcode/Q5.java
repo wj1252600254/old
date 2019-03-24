@@ -50,9 +50,9 @@ public class Q5 {
      * @return
      */
     public String longestPalindrome1(String s) {
-        if (s == null || s.length() == 0)
-            return "";
-        int start = 0, end = 0, max = 0;
+        if (s == null || s.length() == 0 || s.length() == 1)
+            return s;
+        int max = 0;
         String ans = "";
         boolean[][] dp = new boolean[s.length()][s.length()];
         for (int i = 1; i < s.length(); i++) {
@@ -62,15 +62,13 @@ public class Q5 {
                 } else {
                     dp[i][j] = s.charAt(i) == s.charAt(j) && dp[i - 1][j + 1];
                 }
-                String bb = s.substring(j, i+1);
-
                 if (dp[i][j]) {
+                    String bb = s.substring(j, i + 1);
                     if (bb.length() > max) {
-                        max = i-j+1;
+                        max = i - j + 1;
                         ans = bb;
                     }
                 }
-
             }
         }
         return ans;
