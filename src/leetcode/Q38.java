@@ -39,6 +39,7 @@ public class Q38 {
             if (i == n) {
                 return sb.toString();
             }
+            //为下次循环准备
             a = sb.toString();
 
         }

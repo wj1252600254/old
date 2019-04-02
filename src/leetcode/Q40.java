@@ -20,9 +20,9 @@ public class Q40 {
         if (target < 0)
             return;
         for (int i = num; i < candidates.length; i++) {
-            if(i>num&&candidates[i]==candidates[i-1])
+            if (i > num && candidates[i] == candidates[i - 1])
                 continue;
-            list.add(list.size(),candidates[i]);
+            list.add(list.size(), candidates[i]);
             dfs(candidates, target - candidates[i], i + 1, lists, list);
             list.remove(list.size() - 1);
         }

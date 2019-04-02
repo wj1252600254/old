@@ -16,4 +16,8 @@ public class Q41 {
         }
         return nums.length + 1;
     }
+    /**
+     * int[]?
+     */
+
 }

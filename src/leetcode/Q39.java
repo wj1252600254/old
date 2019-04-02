@@ -22,7 +22,7 @@ public class Q39 {
         if (target < candidates[0])
             return;
         for (int i = 0; i < candidates.length; i++) {
-            List<Integer> list1 = new ArrayList<>(list);
+            List<Integer> list1 = new ArrayList<>(list);   //如果不new，可以使用回溯法，dfs后，删除
             list1.add(candidates[i]);
             dfs(candidates, target - candidates[i], lists, list1, i);
         }

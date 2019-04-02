@@ -7,7 +7,7 @@ public class Q37 {
      * @param board
      */
     public void solveSudoku(char[][] board) {
-        boolean[][] rows = new boolean[9][10];
+        boolean[][] rows = new boolean[9][10];  //这里之所以是10，是为了方便后面存储数字1~9
         boolean[][] cols = new boolean[9][10];
         boolean[][] block = new boolean[9][10];
         for (int i = 0; i < 9; i++) {
