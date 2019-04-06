@@ -2,46 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3acab54b-31c5-4724-b45a-8deb50b66ca6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Q50.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/Q51.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/leetcode.iml" afterPath="$PROJECT_DIR$/leetcode.iml" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/Q47.java" afterPath="$PROJECT_DIR$/src/leetcode/Q47.java" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/Q48.java" afterPath="$PROJECT_DIR$/src/leetcode/Q48.java" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/Q49.java" afterPath="$PROJECT_DIR$/src/leetcode/Q49.java" />
-      <change beforePath="$PROJECT_DIR$/src/n个骰子的点数.java" afterPath="$PROJECT_DIR$/src/offer/n个骰子的点数.java" />
-      <change beforePath="$PROJECT_DIR$/src/二叉树的下一个节点.java" afterPath="$PROJECT_DIR$/src/offer/二叉树的下一个节点.java" />
-      <change beforePath="$PROJECT_DIR$/src/二叉树的镜像.java" afterPath="$PROJECT_DIR$/src/offer/二叉树的镜像.java" />
-      <change beforePath="$PROJECT_DIR$/src/二维数组中的查找.java" afterPath="$PROJECT_DIR$/src/offer/二维数组中的查找.java" />
-      <change beforePath="$PROJECT_DIR$/src/二进制1的个数.java" afterPath="$PROJECT_DIR$/src/offer/二进制1的个数.java" />
-      <change beforePath="$PROJECT_DIR$/src/从尾到头打印链表.java" afterPath="$PROJECT_DIR$/src/offer/从尾到头打印链表.java" />
-      <change beforePath="$PROJECT_DIR$/src/删除链表中的重复节点.java" afterPath="$PROJECT_DIR$/src/offer/删除链表中的重复节点.java" />
-      <change beforePath="$PROJECT_DIR$/src/剪绳子.java" afterPath="$PROJECT_DIR$/src/offer/剪绳子.java" />
-      <change beforePath="$PROJECT_DIR$/src/反转链表.java" afterPath="$PROJECT_DIR$/src/offer/反转链表.java" />
-      <change beforePath="$PROJECT_DIR$/src/变态跳台阶.java" afterPath="$PROJECT_DIR$/src/offer/变态跳台阶.java" />
-      <change beforePath="$PROJECT_DIR$/src/合并两个排序的链表.java" afterPath="$PROJECT_DIR$/src/offer/合并两个排序的链表.java" />
-      <change beforePath="$PROJECT_DIR$/src/在O1时间内删除链表节点.java" afterPath="$PROJECT_DIR$/src/offer/在O1时间内删除链表节点.java" />
-      <change beforePath="$PROJECT_DIR$/src/对称的二叉树.java" afterPath="$PROJECT_DIR$/src/offer/对称的二叉树.java" />
-      <change beforePath="$PROJECT_DIR$/src/打印从1到最大的n位数.java" afterPath="$PROJECT_DIR$/src/offer/打印从1到最大的n位数.java" />
-      <change beforePath="$PROJECT_DIR$/src/数值的正数次方.java" afterPath="$PROJECT_DIR$/src/offer/数值的正数次方.java" />
-      <change beforePath="$PROJECT_DIR$/src/数组中只出现一次的数字.java" afterPath="$PROJECT_DIR$/src/offer/数组中只出现一次的数字.java" />
-      <change beforePath="$PROJECT_DIR$/src/数组中的重复数字.java" afterPath="$PROJECT_DIR$/src/offer/数组中的重复数字.java" />
-      <change beforePath="$PROJECT_DIR$/src/斐波那契数列.java" afterPath="$PROJECT_DIR$/src/offer/斐波那契数列.java" />
-      <change beforePath="$PROJECT_DIR$/src/旋转数组最小数字.java" afterPath="$PROJECT_DIR$/src/offer/旋转数组最小数字.java" />
-      <change beforePath="$PROJECT_DIR$/src/替换空格.java" afterPath="$PROJECT_DIR$/src/offer/替换空格.java" />
-      <change beforePath="$PROJECT_DIR$/src/机器人运动范围.java" afterPath="$PROJECT_DIR$/src/offer/机器人运动范围.java" />
-      <change beforePath="$PROJECT_DIR$/src/构建乘积数组.java" afterPath="$PROJECT_DIR$/src/offer/构建乘积数组.java" />
-      <change beforePath="$PROJECT_DIR$/src/树的子结构.java" afterPath="$PROJECT_DIR$/src/offer/树的子结构.java" />
-      <change beforePath="$PROJECT_DIR$/src/正则表达式匹配.java" afterPath="$PROJECT_DIR$/src/offer/正则表达式匹配.java" />
-      <change beforePath="$PROJECT_DIR$/src/用两个栈实现队列.java" afterPath="$PROJECT_DIR$/src/offer/用两个栈实现队列.java" />
-      <change beforePath="$PROJECT_DIR$/src/矩阵中的路径.java" afterPath="$PROJECT_DIR$/src/offer/矩阵中的路径.java" />
-      <change beforePath="$PROJECT_DIR$/src/调整数组顺序使奇数位于偶数前面.java" afterPath="$PROJECT_DIR$/src/offer/调整数组顺序使奇数位于偶数前面.java" />
-      <change beforePath="$PROJECT_DIR$/src/重建二叉树.java" afterPath="$PROJECT_DIR$/src/offer/重建二叉树.java" />
-      <change beforePath="$PROJECT_DIR$/src/链表中倒数第K个结点.java" afterPath="$PROJECT_DIR$/src/offer/链表中倒数第K个结点.java" />
-      <change beforePath="$PROJECT_DIR$/src/链表中环的入口结点.java" afterPath="$PROJECT_DIR$/src/offer/链表中环的入口结点.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/src/leetcode/Q47.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="555">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+              <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,12 +41,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q49.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Q49.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/Q49.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            <state relative-caret-position="399">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q50.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/Q50.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+              <folding>
+                <element signature="e#81#82#0" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q51.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/Q51.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="40" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -121,6 +109,8 @@
         <option value="$PROJECT_DIR$/src/leetcode/Q47.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Q48.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Q49.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Q50.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Q51.java" />
       </list>
     </option>
   </component>
@@ -139,10 +129,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="455" />
-    <option name="y" value="78" />
+    <option name="x" value="1034" />
+    <option name="y" value="28" />
     <option name="width" value="1385" />
-    <option name="height" value="893" />
+    <option name="height" value="1042" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -314,15 +304,15 @@
       <workItem from="1554452402965" duration="3918000" />
       <workItem from="1554460138504" duration="1687000" />
       <workItem from="1554534971560" duration="445000" />
-      <workItem from="1554536821697" duration="134000" />
+      <workItem from="1554536821697" duration="7133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7320000" />
+    <option name="totallyTimeSpent" value="14319000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="455" y="78" width="1385" height="893" extended-state="0" />
+    <frame x="1034" y="28" width="1385" height="1042" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -337,7 +327,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26339623" sideWeight="0.496208" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26339623" sideWeight="0.496208" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35396227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -485,7 +475,7 @@
     <entry file="file://$PROJECT_DIR$/src/leetcode/Q47.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -494,9 +484,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/Q49.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        <state relative-caret-position="399">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Q50.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="e#81#82#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Q51.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
