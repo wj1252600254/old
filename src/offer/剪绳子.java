@@ -1,3 +1,5 @@
+package offer;
+
 public class 剪绳子 {
     /**
      * 贪心算法

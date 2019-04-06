@@ -1,3 +1,5 @@
+package offer;
+
 public class 链表中倒数第K个结点 {
     public ListNode FindKthToTail(ListNode head, int k) {
         ListNode p1 = head;

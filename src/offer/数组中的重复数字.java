@@ -1,3 +1,5 @@
+package offer;
+
 public class 数组中的重复数字 {
     // Parameters:
     //    numbers:     an array of integers

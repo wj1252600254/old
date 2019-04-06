@@ -1,3 +1,5 @@
+package offer;
+
 public class 链表中环的入口结点 {
     public ListNode EntryNodeOfLoop(ListNode pHead) {
         if (pHead == null)   //得判断pHead.next

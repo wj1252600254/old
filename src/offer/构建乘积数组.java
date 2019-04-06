@@ -1,3 +1,5 @@
+package offer;
+
 public class 构建乘积数组 {
     public static void main(String[] args) {
         for (int i = 1, p = 1; i < 10; p *= i, i++) {

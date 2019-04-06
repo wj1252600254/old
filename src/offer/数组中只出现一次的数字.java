@@ -1,3 +1,5 @@
+package offer;
+
 public class 数组中只出现一次的数字 {
     public static void main(String[] args) {
         System.out.println(Integer.toBinaryString(3));
