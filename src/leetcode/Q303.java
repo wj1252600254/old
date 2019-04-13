@@ -1,6 +1,7 @@
 package leetcode;
 
 public class Q303 {
+<<<<<<< HEAD
     private int[] sums;
 
     public Q303(int[] nums) {
@@ -13,4 +14,6 @@ public class Q303 {
     public int sumRange(int i, int j) {
         return sums[j+1]-sums[i];   //不是j   -     i-1
     }
+=======
+>>>>>>> 897ba5a3c8764c5069c4601e42034bf9324ebfcc
 }

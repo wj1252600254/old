@@ -1,6 +1,7 @@
 package leetcode;
 
 public class Q413 {
+<<<<<<< HEAD
     public int numberOfArithmeticSlices(int[] A) {
         int cur = 0;
         int sum = 0;
@@ -14,4 +15,6 @@ public class Q413 {
         }
         return sum;
     }
+=======
+>>>>>>> 897ba5a3c8764c5069c4601e42034bf9324ebfcc
 }

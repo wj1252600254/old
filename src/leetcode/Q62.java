@@ -1,6 +1,7 @@
 package leetcode;
 
 public class Q62 {
+<<<<<<< HEAD
     public int uniquePaths(int m, int n) {
         int[][] dp = new int[m][n];
         for (int i = 0; i < m; i++) {
@@ -16,4 +17,6 @@ public class Q62 {
         }
         return dp[m-1][n-1];
     }
+=======
+>>>>>>> 897ba5a3c8764c5069c4601e42034bf9324ebfcc
 }
