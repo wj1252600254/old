@@ -28,14 +28,12 @@ public class Q18 {
             if (i == 0 || nums[i] != nums[i - 1]) {
                 int[] slip = Arrays.copyOfRange(nums, i + 1, nums.length);
                 List<List<Integer>> list = threeSum(slip, target - nums[i]);
-                if (list.size() > 0) {   //此处不需要加判断，因为如果list.size==0，那么for也不会执行的！
                     for (List<Integer> t : list) {
                         List<Integer> li = new ArrayList();
                         li.add(nums[i]);
                         li.addAll(t);
                         lists.add(li);
                     }
-                }
             }
         }
         return lists;

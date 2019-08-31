@@ -16,23 +16,23 @@ public class Q42 {
         }
         return sum;
     }
-    /**双指针
-     *     public int trap(int[] h) {
-     if(h.length == 0) return 0;
-     int l = 0, r = h.length - 1, lm = h[l], rm = h[r], res = 0;
 
-     while(l < r) {
-     if(lm <= rm) {
-     l++;
-     if(h[l] < lm) res += lm - h[l];
-     else lm = h[l];
-     } else {
-     r--;
-     if(h[r] < rm) res += rm - h[r];
-     else rm = h[r];
-     }
-     }
-     return res;
-     }
-     */
+    public int trap(int[] h) {
+        if (h.length == 0) return 0;
+        int l = 0, r = h.length - 1, lm = h[l], rm = h[r], res = 0;
+
+        while (l < r) {
+            if (lm <= rm) {
+                l++;
+                if (h[l] < lm) res += lm - h[l];
+                else lm = h[l];
+            } else {
+                r--;
+                if (h[r] < rm) res += rm - h[r];
+                else rm = h[r];
+            }
+        }
+        return res;
+    }
+
 }
